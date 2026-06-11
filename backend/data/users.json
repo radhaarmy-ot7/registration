@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1781083388064",
+    "name": "megha",
+    "email": "radhaarmy67@gmail.com",
+    "password": "$2a$10$hFVbrUJdAMfdx3kDXl1QUuwlF1swcKyyJPM7B3BDvVLvOCalydht.",
+    "phone": "1234567890",
+    "city": "delhi",
+    "isAdmin": false,
+    "createdAt": "2026-06-10T09:23:08.064Z"
+  }
+]
